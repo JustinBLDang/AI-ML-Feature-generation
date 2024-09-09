@@ -4,4 +4,6 @@ Find the best set of features that results in the highest accuracy for classific
 
 Generates features n features as provided by the user from (1, 2, ..., n). Searches for the best combination of features using forward, backward, and my own algorithm. My algorithm uses epsilon to mix forward Greedy and Breadth First search.
 
+Here is a video demo:
+
 ![featgenex](https://github.com/JustinBLDang/AI-ML-Feature-generation/assets/57662868/5e33a4b3-ef23-48ae-b75d-fc9d8014bae8)
